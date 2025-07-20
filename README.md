@@ -1,6 +1,6 @@
 ## 📌 Abstract
 
-This project proposes an **Audio-Visual Speech Recognition (AVSR)** system to assist people with hearing impairments by integrating both lip-reading and audio recognition technologies. The system uses a hybrid model combining image processing and machine learning techniques to recognize speech based on both audio and video inputs
+This project is a part of an **Audio-Visual Speech Recognition (AVSR)** system to assist people with hearing impairments by integrating both lip-reading and audio recognition technologies. The system uses a hybrid model combining image processing and machine learning techniques to recognize speech based on both audio and video inputs
 
 ## 🧠 Problem Statement
 
