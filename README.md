@@ -2,6 +2,8 @@
 
 This project is a part of an **Audio-Visual Speech Recognition (AVSR)** system to assist people with hearing impairments by integrating both lip-reading and audio recognition technologies. The system uses a hybrid model combining image processing and machine learning techniques to recognize speech based on both audio and video inputs
 
+Link to my reserach paper : https://www.ijstr.org/final-print/feb2020/Lip-reading-Techniques-A-Review.pdf
+
 ## 🧠 Problem Statement
 
 To predict spoken words using either:
